@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Akshay Kakade! 👋<br>Welcome to my GitHub profile! I'm a passionate software developer with a background in Computer Science, and a keen interest in AI & ML. I thrive on creating innovative solutions and exploring the frontiers of technology.<br><br>🚀 Specialties:<br><br>     Data Analytics,      Python, R Programming, Next.JS, React.JS,     Machine Learning,      AI ,       Data Science💡 Fun Fact: When I'm not coding, I enjoy diving into tech articles, gaming, and discovering new coffee spots.<br><br>Let's connect and build something amazing together!
+Hi, I'm Akshay Kakade! 👋<br>Welcome to my GitHub profile! I'm a passionate software developer with a background in Computer Science, and a keen interest in AI & ML. I thrive on creating innovative solutions and exploring the frontiers of technology.<br><br>🚀 Specialties:<br><br>     Data Analytics,      Python, R Programming, Next.JS, React.JS,     Machine Learning,      AI ,       Data Science💡 
+<br> Fun Fact: When I'm not coding, I enjoy diving into tech articles, gaming, and discovering new coffee spots.<br><br>Let's connect and build something amazing together!
 
 
 ## 🌐 Socials:
