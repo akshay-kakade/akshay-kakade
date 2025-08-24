@@ -40,3 +40,17 @@ Focused on building intelligent systems, scalable apps, and applying AI to solve
 ---
 
 ✨ *Pushing boundaries in AI & Deep Learning — one project at a time.*
+
+## 📊 My Contributions
+
+<!-- Activity Graph (contribution grid-like) -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=5e5e5e&line=2f80ed&point=2f80ed&area=true&hide_border=true)
+
+<!-- Streak (daily commit streak) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)
+
+<!-- Stats (commits, PRs, etc.) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=percentile)
+
+<!-- Top Languages (optional) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
