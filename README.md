@@ -30,7 +30,7 @@ Focused on building intelligent systems, scalable apps, and applying AI to solve
 
 ---
 ## 📊 My GitHub Contributions
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshay-kakade&theme=github&hide_border=true)
 
 
 ---
