@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay Kakade
 
-### 🚀 Generative AI & Machine Learning Engineer
+### 🚀 Generative AI & LLM Engineer
 
 Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Memory Architectures, Fine-Tuning, and Applied Machine Learning**.
 
