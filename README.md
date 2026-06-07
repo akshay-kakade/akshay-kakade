@@ -1,45 +1,196 @@
-# 👋 Hey, I'm Akshay Kakade  
+👋 Hi, I'm Akshay Kakade
 
-💡 **AI & ML Engineer | Deep Learning Specialist | Software Developer**  
-Focused on building intelligent systems, scalable apps, and applying AI to solve real-world problems.  
+🚀 Generative AI & Machine Learning Engineer
 
----
-
-## 🚀 Skills & Tech  
-
-| **Core AI & ML** | **Deep Learning & Data** | **Full-Stack & Tools** |
-|------------------|--------------------------|-------------------------|
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-009688?style=for-the-badge&logo=opencv&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![NLP](https://img.shields.io/badge/NLP-673AB7?style=for-the-badge&logo=openai&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) | ![LangGraph](https://img.shields.io/badge/LangGraph-1A73E8?style=for-the-badge&logo=graphql&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-8E44AD?style=for-the-badge&logo=fastapi&logoColor=white) |  |  |
-
+Building production-ready AI systems using LLMs, RAG, Multi-Agent AI, Memory Architectures, Fine-Tuning, and Applied Machine Learning.
 
 ---
 
-## 📌 Featured Projects  
+💡 About Me
 
-- 🔹 **[UpCyclica](https://upcyclica.vercel.app/)** – AI-powered sustainability platform for transforming food waste into compost, biofuel & feed.  
-- 🔹 **[Cold Email Generator](https://coldemil.streamlit.app/)** – AI-driven tool that crafts professional outreach emails using LangChain & ChromaDB.  
-- 🔹 **[AI Resume Analyzer](https://zettro.vercel.app/)** – Deep learning–based system that scores resumes and matches them to job descriptions.  
-- 🔹 **[AI Mock Interview Platform](https://jobpulseai.vercel.app)** – Interactive interview simulation powered by NLP & ML models.  
-
-👉 Explore all **20+ projects** in my [GitHub Repositories](https://github.com/akshay-kakade).  
-
----
-## 📊 GitHub Contribution Grid
-![GitHub Contributions](https://ghchart.rshah.org/00e676/akshay-kakade)
+- 🤖 Generative AI & LLM Engineer
+- 🧠 Building AI Memory Systems & Agentic Workflows
+- 🔍 Working with RAG, LangChain & LangGraph
+- ⚡ Fine-Tuning Open Source LLMs using QLoRA & Unsloth
+- 🐳 Deploying AI Applications with Docker
+- ☁️ Experience with Hugging Face, Render, Vercel & Google Cloud
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kakade-878399287)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsGameTimeBudy)  
+🛠️ Tech Stack
+
+Generative AI
+
+"Python" (https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+"LangChain" (https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+"LangGraph" (https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
+"Transformers" (https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
+"HuggingFace" (https://img.shields.io/badge/HuggingFace-orange?style=for-the-badge)
+"RAG" (https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
+"QLoRA" (https://img.shields.io/badge/QLoRA-green?style=for-the-badge)
+"Unsloth" (https://img.shields.io/badge/Unsloth-red?style=for-the-badge)
+
+Machine Learning
+
+"PyTorch" (https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
+"TensorFlow" (https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+"Scikit-Learn" (https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge)
+"XGBoost" (https://img.shields.io/badge/XGBoost-blue?style=for-the-badge)
+"SHAP" (https://img.shields.io/badge/SHAP-purple?style=for-the-badge)
+
+Backend & Infrastructure
+
+"FastAPI" (https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+"Git" (https://img.shields.io/badge/Git-orange?style=for-the-badge)
 
 ---
 
-✨ *Pushing boundaries in AI & Deep Learning — one project at a time.*
+🌟 Featured Projects
+
+🧠 MemoryOS (Flagship Project)
+
+Persistent memory operating system for AI assistants.
+
+Key Features
+
+- Long-Term AI Memory
+- Semantic Search
+- Knowledge Graph
+- OCR Integration
+- Workspace Isolation
+- Memory Retrieval
+- ChromaDB Integration
+
+🔗 Repository:
+https://github.com/akshay-kakade/MEMORY-OS
+
+🚀 Live Demo:
+https://memory-os-ai.vercel.app/
+
+---
+
+📈 Revenue Growth Copilot
+
+Fine-tuned Gemma 3 4B model specialized for revenue growth, customer intelligence, sales outreach, and business recommendations.
+
+Key Features
+
+- Gemma 3 4B Fine-Tuning
+- QLoRA
+- Unsloth
+- Synthetic Business Dataset
+- Hugging Face Deployment
+- Business Strategy Generation
+
+🔗 Repository:
+https://github.com/akshay-kakade/Fine-Tuned-Gemma-3-4B-
+
+🚀 Live Demo:
+https://huggingface.co/spaces/maverickjones/revenue-growth-copilot-llm
+
+---
+
+🔬 MAIR Research Portal
+
+Multi-Agent AI research platform inspired by Deep Research workflows.
+
+Key Features
+
+- Search Agent
+- Reader Agent
+- Writer Agent
+- Critic Agent
+- Tavily Integration
+- Gemini Integration
+- PDF Research Reports
+
+🔗 Repository:
+https://github.com/akshay-kakade/multi-agent
+
+🚀 Live Demo:
+https://mair-latest.onrender.com
+
+---
+
+🛡️ Credit Card Fraud Detection System
+
+Machine learning platform for fraud prediction and explainability.
+
+Key Features
+
+- XGBoost
+- SHAP Explainability
+- Fraud Risk Scoring
+- Analytics Dashboard
+- Performance Monitoring
+
+🔗 Repository:
+https://github.com/akshay-kakade/fraud_detection
+
+🚀 Live Demo:
+https://huggingface.co/spaces/maverickjones/credit-fraud-detection-app
+
+---
+
+📊 AI Data Quality Copilot
+
+AI-powered assistant for dataset analysis and quality validation.
+
+Key Features
+
+- Missing Value Detection
+- Outlier Detection
+- Data Profiling
+- Quality Assessment
+- Automated Insights
+
+🔗 Repository:
+https://github.com/akshay-kakade/AI-Data-Quality-Copilot
+
+🚀 Live Demo:
+https://data-quality-latest.onrender.com/
+
+---
+
+📜 Certifications
+
+🏅 IBM Generative AI Engineering Professional Certificate
+
+🏅 IBM AI Engineering Professional Certificate
+
+🏅 Generative AI Engineering with LLMs Specialization
+
+---
+
+📈 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=akshay-kakade&show_icons=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-kakade&layout=compact)
+
+---
+
+🌐 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/akshay-kakade-878399287
+
+💻 GitHub:
+https://github.com/akshay-kakade
+
+---
+
+🎯 Current Focus
+
+- Fine-Tuning Open Source LLMs
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- AI Memory Architectures
+- Production AI Deployments
+- Multi-Agent Workflows
+
+---
+
+⭐ Always building practical AI systems that solve real-world business problems.
