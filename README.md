@@ -16,6 +16,21 @@ Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Memory A
 - ☁️ Experience with Hugging Face, Render, Vercel & Google Cloud
 
 ---
+### 📌 Portfolio Highlights
+
+✅ 5 Production AI Projects
+
+✅ 5 Public Deployments
+
+✅ Fine-Tuned Gemma 3 4B Model
+
+✅ Multi-Agent AI Research System
+
+✅ Persistent Memory Operating System
+
+✅ Fraud Detection Platform with Explainable AI
+
+✅ AI Data Quality Analysis Platform
 
 ## 🛠️ Tech Stack
 
@@ -69,6 +84,14 @@ Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Memory A
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ---
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge)
+![Tavily](https://img.shields.io/badge/Tavily_Search-0EA5E9?style=for-the-badge)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-4CAF50?style=for-the-badge)
+![Knowledge_Graphs](https://img.shields.io/badge/Knowledge_Graphs-7C3AED?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-22C55E?style=for-the-badge)
 
 # 🌟 Featured Projects
 
@@ -151,6 +174,18 @@ https://data-quality-latest.onrender.com/
 🏅 Generative AI Engineering with LLMs Specialization
 
 ---
+## 🎯 Specializations
+
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent AI Systems
+- LLM Fine-Tuning
+- AI Memory Architectures
+- Vector Search
+- Knowledge Management Systems
+- Prompt Engineering
+- Agentic Workflows
+- Explainable AI (SHAP)
+- Production AI Deployment
 
 ## 📊 GitHub Stats
 
