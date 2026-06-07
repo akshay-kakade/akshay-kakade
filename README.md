@@ -19,9 +19,8 @@ Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Memory A
 
 ## 🛠️ Tech Stack
 
-### Generative AI
+### 🤖 Generative AI & LLM Engineering
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
@@ -29,22 +28,46 @@ Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Memory A
 ![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
 ![QLoRA](https://img.shields.io/badge/QLoRA-green?style=for-the-badge)
 ![Unsloth](https://img.shields.io/badge/Unsloth-red?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1E90FF?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-8A2BE2?style=for-the-badge)
 
-### Machine Learning
+### 🧠 Machine Learning & Deep Learning
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-purple?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-009688?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-673AB7?style=for-the-badge)
 
-### Backend & Infrastructure
+### ⚙️ Backend Development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![Neon](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
+
+### ☁️ Cloud, Deployment & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace_Spaces-FFCC00?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ---
 
 # 🌟 Featured Projects
