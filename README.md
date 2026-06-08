@@ -100,7 +100,7 @@ Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Model Tr
 
 Persistent memory operating system for AI assistants.
 
-**Tech:** RAG • ChromaDB • FastAPI • PostgreSQL • OCR
+**Tech:** RAG • ChromaDB • FastAPI • PostgreSQL • LangGraph • OCR • Semantic Search
 
 🔗 Repository  
 https://github.com/akshay-kakade/MEMORY-OS
@@ -114,7 +114,7 @@ https://memory-os-ai.vercel.app/
 
 Fine-tuned Gemma 3 4B model specialized for revenue growth, customer intelligence, sales outreach, and business recommendations.
 
-**Tech:** Gemma 3 • QLoRA • Unsloth • Hugging Face • Fine-Tuning
+**Tech:** Gemma 3 • QLoRA • LoRA • Unsloth • Hugging Face • Fine-Tuning • Gradio
 
 🔗 Repository  
 https://github.com/akshay-kakade/Fine-Tuned-Gemma-3-4B-
@@ -128,7 +128,7 @@ https://huggingface.co/spaces/maverickjones/revenue-growth-copilot-llm
 
 Multi-Agent AI research platform inspired by Deep Research workflows.
 
-**Tech:** LangGraph • LangChain • Tavily • Gemini • FastAPI
+**Tech:** LangGraph • LangChain • Tavily • Gemini • FastAPI • Gradio • PostgreSQL • Docker
 
 🔗 Repository  
 https://github.com/akshay-kakade/multi-agent
@@ -142,7 +142,7 @@ https://mair-latest.onrender.com
 
 Machine learning platform for fraud prediction and explainability.
 
-**Tech:** XGBoost • SHAP • FastAPI • Gradio
+**Tech:** XGBoost • SHAP • FastAPI • Gradio 
 
 🔗 Repository  
 https://github.com/akshay-kakade/fraud_detection
@@ -156,7 +156,7 @@ https://huggingface.co/spaces/maverickjones/credit-fraud-detection-app
 
 AI-powered assistant for dataset analysis and quality validation.
 
-**Tech:** FastAPI • Gradio • Scikit-Learn • Pandas
+**Tech:** XGBoost • SHAP • Scikit-Learn • FastAPI • Gradio • PostgreSQL
 
 🔗 Repository  
 https://github.com/akshay-kakade/AI-Data-Quality-Copilot
@@ -190,10 +190,9 @@ https://data-quality-latest.onrender.com/
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay-kakade&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=akshay-kakade&show_icons=true&theme=github_dark_dimmed)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-kakade&layout=compact&theme=github_dark)
-
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=akshay-kakade&layout=compact&theme=github_dark_dimmed)
 ---
 
 ## 🌐 Connect With Me
@@ -206,14 +205,6 @@ https://github.com/akshay-kakade
 
 ---
 
-## 🎯 Current Focus
-
-- Fine-Tuning Open Source LLMs
-- Agentic AI Systems
-- Retrieval-Augmented Generation (RAG)
-- AI Memory Architectures
-- Production AI Deployments
-- Multi-Agent Workflows
 
 ---
 
