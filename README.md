@@ -198,7 +198,7 @@ https://data-quality-latest.onrender.com/
 ## 🌐 Connect With Me
 
 💼 LinkedIn  
-https://www.linkedin.com/in/akshay-kakade-878399287
+https://www.linkedin.com/in/akshay-kakade-860224356/
 
 💻 GitHub  
 https://github.com/akshay-kakade
