@@ -2,7 +2,7 @@
 
 ### 🚀 Generative AI & LLM Engineer
 
-Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Memory Architectures, Fine-Tuning, and Applied Machine Learning**.
+Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Model Training, Fine-Tuning, and Applied Machine Learning**.
 
 ---
 
@@ -57,7 +57,6 @@ Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Memory A
 ![SHAP](https://img.shields.io/badge/SHAP-purple?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-009688?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-673AB7?style=for-the-badge)
 
 ### ⚙️ Backend Development
@@ -66,7 +65,8 @@ Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Memory A
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-
+![LoRA](https://img.shields.io/badge/LoRA-22C55E?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/LoRA-22C55E?style=for-the-badge)
 ### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
@@ -83,15 +83,16 @@ Building production-ready AI systems using **LLMs, RAG, Multi-Agent AI, Memory A
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge)
 ---
-![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge)
+
+# Tools
 ![Tavily](https://img.shields.io/badge/Tavily_Search-0EA5E9?style=for-the-badge)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-4CAF50?style=for-the-badge)
-![Knowledge_Graphs](https://img.shields.io/badge/Knowledge_Graphs-7C3AED?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-22C55E?style=for-the-badge)
+
+
+
 
 # 🌟 Featured Projects
 
